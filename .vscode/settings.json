@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "e:\\Next.js\\Java\\mysql-connector-java-8.0.28.jar",
+    "e:\\Next.js\\Java\\rs2xml.jar",
+    "e:\\Next.js\\Java\\jcalendar-tz-1.3.3-4.jar"
+  ]
+}
